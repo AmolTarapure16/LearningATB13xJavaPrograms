@@ -1,4 +1,4 @@
-package ex_00_Task;
+package ex_00_Task.Lab_10June;
 
 public class Lab_001_Conceptofprintf
 {
