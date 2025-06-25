@@ -2,7 +2,7 @@ package ex_00_Task.Lab_24June;
 
 import java.util.Scanner;
 
-public class Lab_012_characterIsAnAlphabet
+public class Lab_012_CharacterIsAnAlphabet
 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
