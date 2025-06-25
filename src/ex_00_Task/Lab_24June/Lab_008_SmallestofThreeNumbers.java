@@ -2,7 +2,7 @@ package ex_00_Task.Lab_24June;
 
 import java.util.Scanner;
 
-public class Lab003_SmallestofThreeNumbers
+public class Lab_008_SmallestofThreeNumbers
 {
     public static void main(String[] args)
     {

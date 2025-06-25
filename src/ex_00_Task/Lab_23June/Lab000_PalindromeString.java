@@ -2,7 +2,7 @@ package ex_00_Task.Lab_23June;
 
 import java.util.Scanner;
 
-public class Lab001_PalindromeString
+public class Lab000_PalindromeString
 {
     public static void main(String[] args)
     {//  Palindrome

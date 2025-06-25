@@ -2,7 +2,7 @@ package ex_00_Task.Lab_24June;
 
 import java.util.Scanner;
 
-public class Lab005_LeapYear
+public class Lab_010_LeapYear
 {
     public static void main(String[] args)
     {

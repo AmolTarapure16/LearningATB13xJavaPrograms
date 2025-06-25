@@ -2,7 +2,7 @@ package ex_00_Task.Lab_23June;
 
 import java.util.Scanner;
 
-public class Lab_006_EligibleToVote
+public class Lab_005_EligibleToVote
 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

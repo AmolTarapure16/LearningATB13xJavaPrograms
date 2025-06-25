@@ -2,7 +2,7 @@ package ex_00_Task.Lab_23June;
 
 import java.util.Scanner;
 
-public class Lab_002_NumberPositiveOrNegative
+public class Lab_001_NumberPositiveOrNegative
 {
     public static void main(String[] args)
     {

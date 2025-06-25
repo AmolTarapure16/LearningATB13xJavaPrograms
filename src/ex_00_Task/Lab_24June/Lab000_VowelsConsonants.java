@@ -2,7 +2,7 @@ package ex_00_Task.Lab_24June;
 
 import java.util.Scanner;
 
-public class Lab002_VowelsConsonants
+public class Lab000_VowelsConsonants
 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

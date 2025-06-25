@@ -2,7 +2,7 @@ package ex_00_Task.Lab_23June;
 
 import java.util.Scanner;
 
-public class Lab_008_LargestOfThreeNumbers
+public class Lab_007_LargestOfThreeNumbers
 {
     public static void main(String[] args)
     {

@@ -2,7 +2,7 @@ package ex_00_Task.Lab_24June;
 
 import java.util.Scanner;
 
-public class Lab004_LargestofTwoNumbers
+public class Lab_009_LargestofTwoNumbers
 {
     public static void main(String[] args) {
         //Find the Largest of Two Numbers.

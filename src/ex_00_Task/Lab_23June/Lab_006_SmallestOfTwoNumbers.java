@@ -2,7 +2,7 @@ package ex_00_Task.Lab_23June;
 
 import java.util.Scanner;
 
-public class Lab_004_MaximumofTwoNumbers
+public class Lab_006_SmallestOfTwoNumbers
 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -11,13 +11,13 @@ public class Lab_004_MaximumofTwoNumbers
         System.out.println("Enter Second num");
         int b = scanner.nextInt();
 
-        if(a>b)
+        if(a<b)
         {
-            System.out.println(a + " is Maximum");
+            System.out.println(a + " is Smalest");
         }
         else
         {
-            System.out.println(b + " is Maximum");
+            System.out.println(b + " is Smalest");
         }
     }
 }

@@ -2,7 +2,7 @@ package ex_00_Task.Lab_23June;
 
 import java.util.Scanner;
 
-public class Lab_003_NumberEvenOrOdd
+public class Lab_002_NumberEvenOrOdd
 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
