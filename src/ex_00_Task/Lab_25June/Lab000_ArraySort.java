@@ -2,7 +2,7 @@ package ex_00_Task.Lab_25June;
 
 import java.util.Arrays;
 
-public class Lab001_ArraySort
+public class Lab000_ArraySort
 {
     public static void main(String[] args)
     {

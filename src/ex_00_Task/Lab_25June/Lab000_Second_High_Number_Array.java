@@ -2,7 +2,7 @@ package ex_00_Task.Lab_25June;
 
 import java.util.Arrays;
 
-public class Lab002_2nd_High_Number_Array
+public class Lab000_Second_High_Number_Array
 {
     public static void main(String[] args)
     {
